@@ -1,0 +1,5 @@
+Employee ID: E01
+Employee Name: Tanush
+Department: IT
+Designation: Developer
+Salary: 100000
